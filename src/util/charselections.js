@@ -10,6 +10,7 @@ export const characters = [
       name: 'Batman',
       description: 'Batman because he’s the ultimate strategist—someone who turns fear into a weapon and outthinks enemies who should be unstoppable. He’s a symbol of grit, precision, and raw willpower, proving that being legendary doesn’t require superpowers, just relentless dedication.',
       imageUrl: 'images/jtaffe_draw_a_full_bodied_cool_picture_of_batman_white_backgr_d2c2ff55-e19f-471d-8270-de882ebc3041_2.png',
+      audioUrl: "audio/I'm Tired Alfred.mp3",
     },
     {
       name: 'Anakin Skywalker',
