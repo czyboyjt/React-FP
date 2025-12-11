@@ -3,7 +3,7 @@ export const characters = [
       name: 'Shikamaru Nara',
       description: 'Shikamaru Nara is a calm, strategic thinker who consistently outsmarts opponents without needing flashy power. His laid-back personality paired with surprising intelligence makes him uniquely relatable and quietly inspiring',
       imageUrl: 'images/jtaffe_draw_a_picture_of_shikamaru_nara_in_a_coloured_drawing_2f8e68dd-85d8-49cb-a995-1b3090fd8cad_1.png',
-      audioUrl: 'audio/shikamaru-voice.mp3',
+      audioUrl: 'audio/Sometimes I wish I was a cloud _ Shikamaru [Y3g9fHJcegM].mp3',
 
     },
     {
