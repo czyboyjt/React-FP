@@ -17,7 +17,14 @@ const CharacterPicker = () => {
       <div className='col-L'>
           {!chosenCharacter && <strong>No Character Selected</strong>}
         {chosenCharacter && <CharDetails {...chosenCharacter}></CharDetails>}
-        
+        {chosenCharacter?.audioUrl && (
+        <audio
+        src={chosenCharacter.audioUrl}
+        autoPlay
+        controls
+        onEnded={() => console.log("Audio finished")}
+      />
+      )}
         </div>
         <div className='col-R'>
           <h2>Select a Character</h2>
